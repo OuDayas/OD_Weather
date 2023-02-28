@@ -33,7 +33,7 @@ Config.Debug = true
 
 Config.Enabled          = true
 Config.CityID           = 3169070 -- https://openweathermap.org/
-Config.API              = "e73c056d5bb40960ecac3cebf9d6edab"
+Config.API              = "chiave api"
 Config.Language         = "IT"
 Config.MeasureSystem    = "metric" -- disponibili: metric/imperial
 Config.Measurements =
@@ -72,9 +72,9 @@ Config.AutoCheckTime =
 Config.DiscordMessage =
 {
     enabled         = true,
-    webhook         = "https://discord.com/api/webhooks/922981149532389376/hXQc5CW432qvsre5TPlCVrcGZmnmU2GZpSGK6vlK3OJQaHPlYriPpw4bSvzwT4Y-qibT",
-    avatar          = "https://i.imgur.com/nVimpno.png",
-    nickname        = "Yanet Garcia",
+    webhook         = "link discord webhook",
+    avatar          = "link file png",
+    nickname        = "nome bot",
     UpdateOnSame    = false
 }
 
@@ -109,7 +109,7 @@ Config.cmd =
     -- esempio: license:2r9v0570bn20mcur08u2v586n29876b29nr24vv428
     PlayersAllowed =
     {
-        "license:dbea7e0af076db29ecace22b5e500fddbd8dba66",
+        "license:2r9v0570bn20mcur08u2v586n29876b29nr24vv428",
     }
 }
 Config.Languages =
